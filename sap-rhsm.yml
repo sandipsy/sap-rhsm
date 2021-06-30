@@ -1,0 +1,3 @@
+- hosts: saphana
+  roles:
+  - role: sap-rhsm
