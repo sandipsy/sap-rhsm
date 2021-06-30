@@ -1,3 +1,4 @@
 - hosts: all
   roles:
-  - role: sap-rhsm
+  - role: 
+     - sap-rhsm
